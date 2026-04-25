@@ -4,7 +4,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.11.0-yellow?logo=pytorch&logoColor=red&style=plastic)
 ![NumPy](https://img.shields.io/badge/NumPy-1.26.4-73C2FB?logo=numpy&logoColor=blue&style=plastic)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-orange?logo=streamlit&logoColor=orange&style=plastic)
-![U-Net](https://img.shields.io/badge/U--Net-architecture-green.svg)
+![U-Net](https://img.shields.io/badge/U--Net-architecture-green?style=plastic)
 
 ## Overview
 
@@ -104,6 +104,8 @@ streamlit run app.py
 
 6. Download results using the export buttons
 
+<img width="1354" height="640" alt="n3" src="https://github.com/user-attachments/assets/e6383fde-4441-44aa-8b08-f694f7a1e656" />
+
 ## Model Details
 
 - **Architecture**: U-Net with skip connections
@@ -139,6 +141,8 @@ streamlit run app.py
 - GPU acceleration when available
 - Optimized image processing pipeline
 - Memory-efficient inference with batch processing
+
+<img width="1268" height="590" alt="n3 - Copy" src="https://github.com/user-attachments/assets/fe5f6411-3643-4d59-a401-7f9683007f25" />
 
 ## Contributing
 
