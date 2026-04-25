@@ -1,8 +1,9 @@
 # NeuroScan AI - Brain Tumor Segmentation
 
-![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.11.0-yellow.svg)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-orange.svg)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=yellow&style=plastic)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.11.0-yellow?logo=pytorch&logoColor=red&style=plastic)
+![NumPy](https://img.shields.io/badge/NumPy-1.26.4-73C2FB?logo=numpy&logoColor=blue&style=plastic)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-orange?logo=streamlit&logoColor=orange&style=plastic)
 ![U-Net](https://img.shields.io/badge/U--Net-architecture-green.svg)
 
 ## Overview
