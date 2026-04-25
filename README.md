@@ -10,6 +10,9 @@
 
 NeuroScan AI is a deep learning-powered brain tumor segmentation tool that leverages a U-Net architecture to automatically detect and segment brain tumors in MRI scans. This application provides a user-friendly interface for medical professionals and researchers to analyze brain MRI images with high accuracy.
 
+<img width="1353" height="645" alt="n1" src="https://github.com/user-attachments/assets/0562bc14-80e2-4e64-8ff8-c3be03e44f8f" />
+
+
 ## Features
 
 - **U-Net Architecture**: State-of-the-art segmentation model for medical imaging
@@ -44,6 +47,9 @@ The application uses a custom U-Net implementation with the following components
    - Overlay visualization with customizable opacity
    - Heatmap generation for confidence visualization
    - Binary mask output for further analysis
+
+<img width="1354" height="640" alt="n2" src="https://github.com/user-attachments/assets/72179d90-6f54-4832-a969-eeffb72fa549" />
+
 
 ## Installation
 
